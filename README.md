@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Jane 👋
 
-<!--
-**CapybaraBuilds/CapybaraBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Master's student at Northeastern University (graduating August 2026), with a background in business consulting and hands-on experience building full-stack applications. I'm passionate about performance optimization, distributed systems, and creating software that makes a real difference.
 
-Here are some ideas to get you started:
+🎓 M.S. Computer Science @ Northeastern University · Graduating August 2026  
+📍 Open to **Full-Stack SDE New Grad roles** starting 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript · TypeScript · Python · Java  
+**Frontend:** React · HTML/CSS  
+**Backend:** Node.js · REST APIs  
+**Other:** RabbitMQ · AWS · SQL · Git
+
+---
+
+## 📬 Contact
+
+- 💼 LinkedIn: [linkedin.com/in/jane-liu-professional](https://linkedin.com/in/jane-liu-professional)
+- 📧 Email: jane.liu.career@outlook.com
