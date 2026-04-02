@@ -23,11 +23,11 @@ RESTful API for a community forum with JWT auth and cloud deployment
 
 ## Tech Stack
 
-**Languages:** JavaScript · TypeScript · Python · Java  
-**Frontend:** React · HTML/CSS · Tailwind CSS · Vite 
-**Backend:** Node.js · REST APIs · Express
+**Languages:** JavaScript · TypeScript · Python · Java
+**Frontend:** React · Tailwind CSS · Vite
+**Backend:** Node.js · Express
 **Databases:** PostgreSQL · MongoDB
-**Infrastructure:** RabbitMQ · AWS · Docker · Git
+**Infrastructure:** Docker · AWS ECS/ECR · RabbitMQ
 
 ## Contact
 
